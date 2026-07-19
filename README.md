@@ -20,7 +20,7 @@ Comply with GDPR, CCPA, and all applicable laws. Misuse is your sole responsibil
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOURUSERNAME/ip-logger.git
+git clone https://github.com/Lromero79/ip-logger.git
 cd ip-logger
 ```
 
