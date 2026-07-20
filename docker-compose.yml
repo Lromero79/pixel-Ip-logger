@@ -4,7 +4,7 @@ services:
   ip-logger:
     build: .
     ports:
-      - "5000:5000"
+      - "8080:10000"
     volumes:
       - ./images:/app/images
       - ./access_logs.csv:/app/access_logs.csv
